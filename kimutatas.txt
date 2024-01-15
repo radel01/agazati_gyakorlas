@@ -1,0 +1,2 @@
+II/F:
+	Az 5-el oszthatóak száma: 5
